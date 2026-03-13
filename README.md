@@ -1,4 +1,4 @@
-![img]
+![img](banner.jpg)
 <h1 align="center">Hi 👋, I'm Shihab Hosen</h1>
 <h3 align="center">💻 Full Stack Web Developer | MERN Stack 🚀 Building Modern Websites 🌐 Digital Marketing Expert 📈</h3>
 
